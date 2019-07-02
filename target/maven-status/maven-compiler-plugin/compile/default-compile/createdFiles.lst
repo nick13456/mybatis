@@ -1,0 +1,4 @@
+mybatis\learn\domain\Account.class
+mybatis\learn\dao\AccountDao.class
+mybatis\learn\domain\User.class
+mybatis\learn\dao\UserDao.class
